@@ -133,7 +133,7 @@
 
 /* Ajustar el tamaño de la imagen del logo */
 .logo-icon img {
-  width: 3rem;  /* Ajusta este valor según tu diseño */
+  width: 7rem;  /* Ajusta este valor según tu diseño */
   height: auto;
   display: block;
 }
